@@ -1,0 +1,4 @@
+Burkoló;Tapéta Lajos;60000;Belső
+VízvezetékSzerelő;Megszer Elek;12000;3
+Burkoló;Vakolat Péter;50000;Külső
+VízvezetékSzerelő;Víz Elek;15000;5
