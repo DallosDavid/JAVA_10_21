@@ -23,7 +23,7 @@ public class Burkolo extends MesterEmber {
     }
 
     public String toString() {
-        String s=super.toString()+"\n"+ this.szakterulet;
+        String s=super.toString()+"\n "+ this.szakterulet;
         return s;
     }
 
